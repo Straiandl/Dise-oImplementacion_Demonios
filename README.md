@@ -38,7 +38,7 @@ Al detectar una anomalía (estado de *Error* provocado por un ataque), el sistem
 
 ### 1. Aplicación Web Ejecutándose
 *Formulario de inicio de sesión cargado exitosamente en localhost:*
-![Formulario Web]([./img/captura_formulario.png](https://github.com/Straiandl/Dise-oImplementacion_Demonios/blob/6b976f7229dacef59a63f780899aba4c2d5459cc/Seguridad1.png))
+![Formulario Web](https://github.com/Straiandl/Dise-oImplementacion_Demonios/blob/6b976f7229dacef59a63f780899aba4c2d5459cc/Seguridad1.png)
 
 ### 2. Bloqueo de Ataque (Inyección SQL)
 *Evidencia del bloqueo en la web al intentar ingresar el payload malicioso `' OR '1'='1`:*
@@ -46,11 +46,11 @@ Al detectar una anomalía (estado de *Error* provocado por un ataque), el sistem
 
 ### 3. Monitor FIM Restaurando el Archivo
 *Consola del monitor detectando la alteración del archivo `config.json` y aplicando la restauración automática:*
-![Restauración FIM]([./img/captura_monitor_fim.png](https://github.com/Straiandl/Dise-oImplementacion_Demonios/blob/6b976f7229dacef59a63f780899aba4c2d5459cc/Seguridad3.png))
+![Restauración FIM](https://github.com/Straiandl/Dise-oImplementacion_Demonios/blob/6b976f7229dacef59a63f780899aba4c2d5459cc/Seguridad3.png)
 
 ### 4. Registro de Eventos (Logs)
 *Archivo `security_events.json` mostrando la bitácora de los incidentes de seguridad reportados:*
-![Registro JSON]([./img/captura_logs_json.png](https://github.com/Straiandl/Dise-oImplementacion_Demonios/blob/6b976f7229dacef59a63f780899aba4c2d5459cc/Seguridad4.png))
+![Registro JSON](https://github.com/Straiandl/Dise-oImplementacion_Demonios/blob/6b976f7229dacef59a63f780899aba4c2d5459cc/Seguridad4.png)
 
 ---
 
